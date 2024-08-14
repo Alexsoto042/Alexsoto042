@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Alexsoto042
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+--> Hola👋 yo soy un estudiante de ingeniería en sistemas con un interés en el desarrollo fullstack
+--> Poseo conocimientos en los siguientes lenguajes:
+
+--> 🐍Python
+--> ☕Java
+--> 🤷‍♂️HTML
+--> 🦄CSS
+--> 👾JavaScript
+--> 🦖React
 
 <!---
-Alexsoto042/Alexsoto042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Alexsoto042/Alexsoto042
 --->
